@@ -1,6 +1,7 @@
 git
 vcprompt
 bash
+pyenv
 fortune
 cowsay
 ffmpeg
